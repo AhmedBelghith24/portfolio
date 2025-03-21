@@ -1,6 +1,6 @@
 import React, { useRef } from 'react'
 import { gsap } from 'gsap'
-import { links } from '/Users/ahmedbelghith/Desktop/my-por/src/data.jsx'
+import { links } from '../data.jsx';
 import { FaEnvelope, FaFileAlt, FaAngleRight } from 'react-icons/fa'
 
 const Navbar = () => {
