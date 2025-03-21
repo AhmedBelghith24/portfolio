@@ -1,4 +1,4 @@
-import aboutSvg from '/Users/ahmedbelghith/Desktop/my-por/src/assets/IMG_4129.png'
+import aboutSvg from '../assets/IMG_4129.png'
 import SectionTitle from '/Users/ahmedbelghith/Desktop/my-por/src/components/SectionTitle.jsx'
 const About = () => {
   return (
