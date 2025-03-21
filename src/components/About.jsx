@@ -1,5 +1,5 @@
 import aboutSvg from '../assets/IMG_4129.png'
-import SectionTitle from '/Users/ahmedbelghith/Desktop/my-por/src/components/SectionTitle.jsx'
+import SectionTitle from './SectionTitle.jsx'
 const About = () => {
   return (
     <section className="bg-white py-20" id="about">
