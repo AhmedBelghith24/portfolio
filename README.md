@@ -22,7 +22,7 @@ Here’s a preview of the portfolio:
 
 
 ## 🌟 Demo
-Here you can find the demo link:
+Here you can find the demo link: https://whimsical-stroopwafel-495f96.netlify.app
 
 ## 👨🏻‍💻 Run Locally
 
