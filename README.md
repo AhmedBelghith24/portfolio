@@ -10,7 +10,7 @@ Welcome to my portfolio! This website showcases my projects and skills as a full
 
 Here’s a preview of the portfolio:
 
-![Portfolio Screenshot](./portfolio.png)
+![Portfolio Screenshot](src/assets/port.png)
 
 ## :rocket: Features
 
